@@ -1,0 +1,32 @@
+ html{border: 120px solid;
+      height:58%;
+      width:74%;
+      border-color: lightgray;
+      top:48%;
+      left:50%;
+      position:absolute;
+      transform: translate(-50%, -50%);
+      border-image: url(https://i.ibb.co/vVVZfSv/Nature.jpg);
+      border-image-slice:65;}
+      
+ body{margin: 0px;
+      background:center;}
+       
+header{ background:orange;
+        height:1100px;
+        width:106%;
+        top:48%;
+        left:50%;
+        position:absolute;
+        transform: translate(-50%, -50%);
+        text-align:center;} 
+
+footer{ background:yellow;
+        height: 600px;
+        width:87%;
+        top:68%;
+        left:50%;
+        position:absolute;
+        transform: translate(-50%, -50%);
+        text-align:center;}
+        ol{text-align:left;}
